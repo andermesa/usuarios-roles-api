@@ -142,4 +142,3 @@ Los siguientes archivos contienen el esquema y las pruebas de base de datos:
 - El campo password no se devuelve en las respuestas.
 - Las credenciales y secretos se mantienen en .env.
 - El archivo .env no debe publicarse en GitHub.
-
